@@ -1,0 +1,39 @@
+# ----------------------
+# OS-generated files
+# ----------------------
+.DS_Store
+Thumbs.db
+
+# ----------------------
+# Editor / IDE files
+# ----------------------
+.vscode/
+.idea/
+
+# ----------------------
+# Logs
+# ----------------------
+*.log
+
+# ----------------------
+# Environment files (if you ever add APIs later)
+# ----------------------
+.env
+.env.*
+
+# ----------------------
+# Temporary files
+# ----------------------
+*.tmp
+*.temp
+
+# ----------------------
+# Mac system files
+# ----------------------
+.AppleDouble
+.LSOverride
+
+# ----------------------
+# Windows system files
+# ----------------------
+Desktop.ini
